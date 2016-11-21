@@ -6,6 +6,7 @@ public class First {
 		// TODO Auto-generated method stu
 
 		System.out.println("hello, this is the first test!");
+		System.out.println("this is sec test!");
 	}
 
 }
